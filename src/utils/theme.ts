@@ -1,4 +1,4 @@
-import { pxToRem } from './utils/style';
+import { pxToRem } from './style';
 
 export const colors = {
   white: '#FFFFFF',

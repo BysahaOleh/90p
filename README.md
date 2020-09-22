@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Important
+
+For running the project you need generate GitHub access token and add to `.env` file.
+
+[How generate GitHub access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+
+Before create `.env` file base on `.env.sample`
 ## Available Scripts
 
 In the project directory, you can run:

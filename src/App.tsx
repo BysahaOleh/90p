@@ -5,7 +5,7 @@ import { client } from './utils/apollo';
 
 import { theme } from './utils/theme';
 
-// For example in real project using router
+// Just for example (in real project router is used)
 import Home from './pages/Home';
 
 function App() {

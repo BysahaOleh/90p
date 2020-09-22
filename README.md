@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Important
+## Important
 
 For running the project you need generate GitHub access token and add to `.env` file.
 

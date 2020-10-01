@@ -10,6 +10,7 @@ const Background = styled.div<BackgroundProps>`
   background-image: url(${({ src }) => src || ''});
   background-position: center;
   background-color: ${({ theme }) => theme.colors.secondary};
+  background-repeat: no-repeat;
 `;
 
 export default Background;
